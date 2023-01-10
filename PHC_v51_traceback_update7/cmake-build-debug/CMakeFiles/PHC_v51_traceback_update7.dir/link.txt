@@ -1,0 +1,3 @@
+"D:\Clion\CLion 2021.3.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\PHC_v51_traceback_update7.dir/objects.a
+"D:\Clion\CLion 2021.3.3\bin\mingw\bin\ar.exe" qc CMakeFiles\PHC_v51_traceback_update7.dir/objects.a @CMakeFiles\PHC_v51_traceback_update7.dir\objects1.rsp
+"D:\Clion\CLion 2021.3.3\bin\mingw\bin\g++.exe" -g -Wl,--whole-archive CMakeFiles\PHC_v51_traceback_update7.dir/objects.a -Wl,--no-whole-archive -o PHC_v51_traceback_update7.exe -Wl,--out-implib,libPHC_v51_traceback_update7.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\PHC_v51_traceback_update7.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+D:/MyRespostiry/Cpp/TRANS_v2/cmake-build-debug/CMakeFiles/TRANS_v2.dir
+D:/MyRespostiry/Cpp/TRANS_v2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/MyRespostiry/Cpp/TRANS_v2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

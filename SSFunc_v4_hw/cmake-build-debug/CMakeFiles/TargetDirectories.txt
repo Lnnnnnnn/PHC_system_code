@@ -1,0 +1,3 @@
+D:/MyRespostiry/Cpp/SSFunc_v4_hw/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/MyRespostiry/Cpp/SSFunc_v4_hw/cmake-build-debug/CMakeFiles/SSFunc_v4_hw.dir
+D:/MyRespostiry/Cpp/SSFunc_v4_hw/cmake-build-debug/CMakeFiles/rebuild_cache.dir
